@@ -31,6 +31,5 @@ int main() {
 
     std::cout << "Target: ";
     std::cin >> target;
-
     std::cout << twoSum(nums, target) << std::endl;
 }
